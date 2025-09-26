@@ -25,8 +25,17 @@ Take screenshots of YouTube videos directly from the player with a single click!
 ### Sample Screenshots
 
 <p align="center">
-  <img src="images/sample%201.png" alt="Sample Screenshot 1" width="300">
-  <img src="images/sample%202.png" alt="Sample Screenshot 2" width="300">
+  <img src="images/sample%201.png" alt="Sample Screenshot 1" width="400">
+</p>
+
+<p align="center">
+  <img src="images/sample%202.png" alt="Sample Screenshot 2" width="400">
+</p>
+
+### How to Install
+
+<p align="center">
+  <img src="images/HowToInstall.gif" alt="How to Install GIF" width="400">
 </p>
 
 ---
@@ -40,10 +49,6 @@ Follow these steps to install the extension:
 3. Enable **Developer mode** (top right).
 4. Click **Load unpacked** and select the extension folder.
 5. Pin the extension to your Chrome toolbar.
-
-<p align="center">
-  <img src="images/HowToInstall.gif" alt="How to Install GIF" width="400">
-</p>
 
 ---
 
