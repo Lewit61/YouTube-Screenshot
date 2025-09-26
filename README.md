@@ -1,4 +1,4 @@
-# YouTube Screenshot
+# <p align="center">YouTube Screenshot</p>
 
 <p align="center">
   <img src="images/logo.png" alt="Logo" width="200" height="200">
@@ -8,7 +8,7 @@ Take screenshots of YouTube videos directly from the player with a single click!
 
 ---
 
-## Features
+## <p align="center">Features</p>
 
 - Capture any frame of a YouTube video.
 - Automatically pause the video when taking a screenshot.
@@ -20,9 +20,9 @@ Take screenshots of YouTube videos directly from the player with a single click!
 
 ---
 
-## Images
+## <p align="center">Images</p>
 
-### Sample Screenshots
+### <p align="center">Sample Screenshots</p>
 
 <p align="center">
   <img src="images/sample%201.png" alt="Sample Screenshot 1" width="400">
@@ -32,7 +32,7 @@ Take screenshots of YouTube videos directly from the player with a single click!
   <img src="images/sample%202.png" alt="Sample Screenshot 2" width="400">
 </p>
 
-### How to Install
+### <p align="center">How to Install</p>
 
 <p align="center">
   <img src="images/HowToInstall.gif" alt="How to Install GIF" width="400">
@@ -40,9 +40,7 @@ Take screenshots of YouTube videos directly from the player with a single click!
 
 ---
 
-## How to Install
-
-Follow these steps to install the extension:
+## <p align="center">How to Install</p>
 
 1. Download or clone the repository.
 2. Open Chrome and go to `chrome://extensions/`.
@@ -52,7 +50,7 @@ Follow these steps to install the extension:
 
 ---
 
-## How to Use
+## <p align="center">How to Use</p>
 
 1. Open a YouTube video.
 2. Click the **Screenshot** icon in the player controls.
@@ -61,7 +59,7 @@ Follow these steps to install the extension:
 
 ---
 
-## Contact
+## <p align="center">Contact</p>
 
 - **Email:** [Lewit61Productions@gmail.com](mailto:Lewit61Productions@gmail.com)  
 - **Trello Board:** [Join here](https://trello.com/b/MzqAnQiZ)  
@@ -69,6 +67,4 @@ Follow these steps to install the extension:
 
 ---
 
-## License
-
-© Lewit61 - 2025 - All Rights Reserved
+<p align="center">© Lewit61 - 2025 - All Rights Reserved</p>
