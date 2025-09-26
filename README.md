@@ -1,6 +1,8 @@
 # YouTube Screenshot
 
-![Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="Logo" width="200" height="200">
+</p>
 
 Take screenshots of YouTube videos directly from the player with a single click! This Chrome extension lets you pause the video, capture the current frame, and quickly save or copy the image—all with a sleek frosted glass UI.
 
@@ -21,8 +23,11 @@ Take screenshots of YouTube videos directly from the player with a single click!
 ## Images
 
 ### Sample Screenshots
-![Sample Screenshot 1](images/sample%201.png)  
-![Sample Screenshot 2](images/sample%202.png)
+
+<p align="center">
+  <img src="images/sample%201.png" alt="Sample Screenshot 1" width="300">
+  <img src="images/sample%202.png" alt="Sample Screenshot 2" width="300">
+</p>
 
 ---
 
@@ -36,7 +41,9 @@ Follow these steps to install the extension:
 4. Click **Load unpacked** and select the extension folder.
 5. Pin the extension to your Chrome toolbar.
 
-![How to Install](images/HowToInstall.gif)
+<p align="center">
+  <img src="images/HowToInstall.gif" alt="How to Install GIF" width="400">
+</p>
 
 ---
 
