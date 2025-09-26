@@ -1,1 +1,62 @@
-# YouTube-Screenshot
+# YouTube Screenshot
+
+![Logo](images/logo.png)
+
+Take screenshots of YouTube videos directly from the player with a single click! This Chrome extension lets you pause the video, capture the current frame, and quickly save or copy the image—all with a sleek frosted glass UI.
+
+---
+
+## Features
+
+- Capture any frame of a YouTube video.
+- Automatically pause the video when taking a screenshot.
+- Custom popup with a preview of your screenshot.
+- Save image with the filename format: `{Video Title} - {Creator} - {Timestamp}.png`.
+- Copy screenshot directly to clipboard.
+- Frosted glass UI for a polished, modern look.
+- Compact Chrome popup with links to Email, Trello, and GitHub.
+
+---
+
+## Images
+
+### Sample Screenshots
+![Sample Screenshot 1](images/sample%201.png)  
+![Sample Screenshot 2](images/sample%202.png)
+
+---
+
+## How to Install
+
+Follow these steps to install the extension:
+
+1. Download or clone the repository.
+2. Open Chrome and go to `chrome://extensions/`.
+3. Enable **Developer mode** (top right).
+4. Click **Load unpacked** and select the extension folder.
+5. Pin the extension to your Chrome toolbar.
+
+![How to Install](images/HowToInstall.gif)
+
+---
+
+## How to Use
+
+1. Open a YouTube video.
+2. Click the **Screenshot** icon in the player controls.
+3. A popup will appear showing your screenshot.
+4. Choose **Save** to download, **Copy** to clipboard, or **Close** to discard.
+
+---
+
+## Contact
+
+- **Email:** [Lewit61Productions@gmail.com](mailto:Lewit61Productions@gmail.com)  
+- **Trello Board:** [Join here](https://trello.com/b/MzqAnQiZ)  
+- **GitHub Repository:** [YouTube Screenshot](https://github.com/Lewit61/YouTube-Screenshot)
+
+---
+
+## License
+
+© Lewit61 - 2025 - All Rights Reserved
